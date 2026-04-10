@@ -86,19 +86,6 @@ See `/swiftui-app` and `/flutter-app`
 
 ---
 
-# 🌐 Mock API
-
-```bash
-cd mock-api
-npm install
-node server.js
-```
-
-Runs on:
-http://localhost:3000
-
----
-
 # 📱 Run SwiftUI
 
 * Open `swiftui-app/ToDoApp.xcodeproj`
