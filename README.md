@@ -15,7 +15,6 @@ Completed within 48 hours as required.
 This project demonstrates a production-ready mobile application using:
 
 * SwiftUI (iOS)
-* Flutter (Cross-platform)
 
 Following:
 
@@ -82,7 +81,7 @@ Following:
 
 # 📁 Project Structure
 
-See `/ToDoApp` code by swiftUI and `/flutter-app`
+See `/ToDoApp` code by swiftUI
 
 ---
 
@@ -90,16 +89,6 @@ See `/ToDoApp` code by swiftUI and `/flutter-app`
 
 * Open `swiftui-app/ToDoApp.xcodeproj`
 * Run on simulator
-
----
-
-# 🐦 Run Flutter
-
-```bash
-cd flutter-app
-flutter pub get
-flutter run
-```
 
 ---
 
