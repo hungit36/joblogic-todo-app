@@ -82,7 +82,7 @@ Following:
 
 # 📁 Project Structure
 
-See `/swiftui-app` and `/flutter-app`
+See `/ToDoApp` code by swiftUI and `/flutter-app`
 
 ---
 
